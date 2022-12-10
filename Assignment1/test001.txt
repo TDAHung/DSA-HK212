@@ -1,0 +1,8 @@
+fconst 4.6736
+fconst 3.4
+fstore 2
+fload 2
+fadd
+val 2
+top
+val 1
