@@ -82,10 +82,3 @@ int main() {
     cout << Sta.top();
     return 0;
 }
-
-
-
-
-
-
-
